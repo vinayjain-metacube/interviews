@@ -1,18 +1,6 @@
-# Salesforce DX Project: Next Steps
+# Provus Interview Project: Setup
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
-
-## How Do You Plan to Deploy Your Changes?
-
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
-
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+1. First, clone this repository to your local machine.
+2. Next, create a new branch with the following format: name_location_role_provus_test. Be sure to replace name with your own name, and location with your current location (e.g. city or country), role with your position or role on the project. This will help us to identify your branch and ensure that everyone is working on the correct code.
+3. Choose your preferred Integrated Development Environment (IDE) and connect to the scratch org using the credentials that were sent to your email. These credentials will allow you to access the development environment and begin working on the project.
+4. Finally, deploy the force-app to the scratch org to ensure that you have the latest code and can begin developing. You can do this by following the deployment instructions provided in the repository.
